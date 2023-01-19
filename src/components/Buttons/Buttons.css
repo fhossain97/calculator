@@ -1,0 +1,23 @@
+button {
+    border: none;
+    background-color: #F88379;
+    font-size: 24px;
+    color: palegoldenrod;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 15px;
+    outline: none;
+  }
+  
+  button:hover {
+    background-color: lightpink;
+  }
+  
+  .equals {
+    grid-column: 3 / 5;
+    background-color: hotpink;
+  }
+  
+  .equals:hover {
+    background-color: rgb(228, 39, 15);
+  }
